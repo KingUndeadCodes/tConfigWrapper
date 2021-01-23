@@ -12,7 +12,7 @@
 - Buff loading
 - Sound loading
 - Wall loading
-- Projectiel loading
+- Projecteil loading
 - Gore loading
 - All global things except items
 - Generic classes like: 
