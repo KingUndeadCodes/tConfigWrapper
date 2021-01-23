@@ -8,6 +8,7 @@
 ! Ini loading of npcs
 ! Items
 ! Tiles
+
 # Haven't started:
 - Buff loading
 - Sound loading
