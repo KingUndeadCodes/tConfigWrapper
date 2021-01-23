@@ -16,9 +16,9 @@
 - Gore loading
 - All global things except items
 - Generic classes like: 
-1: Player 
-2: Main mod 
-3: World
+- 1: Player 
+- 2: Main mod 
+- 3: World
 - dll loading
 - Script loading
 ```
