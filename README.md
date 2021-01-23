@@ -25,4 +25,6 @@
 ```
 If you'd like to help feel free to join my discord server and contact me.
 https://discord.gg/EB6yPZj
-<center><img src="http://i.imgur.com/kdcROYP.png"/></center>
+<p align="center" >
+	<img src="http://i.imgur.com/kdcROYP.png"/>
+</p>
